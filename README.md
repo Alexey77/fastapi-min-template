@@ -1,1 +1,1 @@
-# fastapi-min-template
+# FastAPI Min Template

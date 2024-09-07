@@ -1,0 +1,6 @@
+fastapi
+loguru
+pydantic
+pydantic-settings
+uvicorn
+orjson
